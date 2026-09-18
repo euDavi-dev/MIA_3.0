@@ -5,139 +5,69 @@
 </p>
 
 <h3 align="center">
-  Uma inteligência artificial criada para tornar sua rotina mais simples, inteligente e conectada.
+  Uma assistente de inteligência artificial moderna, simples e conectada.
 </h3>
 
 <p align="center">
-  <a href="https://mia-deploy.vercel.app/">🌐 Acessar a MIA</a>
+  🌐 <a href="https://mia-deploy.vercel.app/">Acessar a MIA</a>
 </p>
 
 ---
 
-## ✨ Sobre a MIA
+## 🎬 Conheça a MIA
 
-A **MIA (Minha Inteligência Artificial)** é uma plataforma de inteligência artificial desenvolvida para oferecer uma experiência moderna, simples e intuitiva de interação com uma assistente virtual.
+<p align="center">
+  <a href="SEU_LINK_DO_VIDEO">
+    <img src="SUA_THUMBNAIL_DO_VIDEO.png" width="800" alt="Conheça a MIA">
+  </a>
+</p>
 
-A plataforma combina **conversas com IA, histórico de conversas, informações de clima, configurações personalizadas e integração com dispositivos**, reunindo diferentes recursos em uma única experiência.
-
-A MIA foi desenvolvida com foco em uma interface moderna e responsiva, permitindo sua utilização tanto em **computadores quanto em dispositivos móveis**.
-
----
-
-## 🚀 Funcionalidades
-
-### 💬 Inteligência Artificial
-
-Converse com a MIA através de uma interface de chat moderna e receba respostas geradas por inteligência artificial.
-
-- Conversas em tempo real
-- Criação de novas conversas
-- Histórico de conversas
-- Contexto das conversas
-- Interface de chat responsiva
-
-### 📱 Experiência Mobile
-
-A MIA possui uma interface adaptada para dispositivos móveis, permitindo acessar suas principais funcionalidades pelo celular.
-
-### 🌦️ Clima
-
-Consulte informações meteorológicas através da integração com serviço de clima.
-
-### 📺 Dispositivos
-
-A plataforma possui estrutura para integração e controle de dispositivos compatíveis, incluindo recursos relacionados a Smart TVs.
-
-### ⚙️ Configurações
-
-Gerencie as configurações e preferências da sua experiência com a MIA.
-
-### 🔐 Autenticação
-
-Sistema de usuários com:
-
-- Cadastro
-- Login
-- Autenticação
-- Sessões de usuário
-- Proteção de informações
+<p align="center">
+  ▶️ <strong>Assista à apresentação da MIA</strong>
+</p>
 
 ---
 
-## 🖥️ Interface
+## ✨ O que é a MIA?
 
-A MIA foi projetada com uma abordagem visual moderna, utilizando uma interface limpa e focada na experiência do usuário.
+A **MIA (Minha Inteligência Artificial)** é uma assistente de IA criada para ajudar no dia a dia através de conversas inteligentes e recursos integrados.
 
-### Desktop
+### 🚀 Funcionalidades
 
-A versão para computadores aproveita o espaço disponível para apresentar o chat, histórico, navegação e demais funcionalidades.
-
-### Mobile
-
-A interface responsiva adapta os componentes para telas menores, mantendo a experiência de utilização da plataforma.
+- 💬 Chat com inteligência artificial
+- 🧠 Histórico de conversas
+- 📱 Interface para celular
+- 🌦️ Informações sobre clima
+- 📺 Controle de dispositivos
+- ⚙️ Configurações personalizadas
+- 🔐 Sistema de autenticação
 
 ---
 
-## 🛠️ Tecnologias utilizadas
-
-### Frontend
+## 🛠️ Tecnologias
 
 - React
 - Vite
 - JavaScript
-- CSS
-- HTML
-
-### Backend
-
 - Python
 - FastAPI
-- Uvicorn
-- Pydantic
-
-### Inteligência Artificial
-
-- Google Gemini API
-
-### Banco de dados
-
+- Google Gemini
 - PostgreSQL
 - Supabase
-- SQLAlchemy
-- Psycopg2
-
-### Deploy
-
-- Vercel — Frontend
-- Render — Backend
-- Supabase — Banco de dados
 
 ---
 
-## 🏗️ Arquitetura
+## 🌐 Acesse
 
-A aplicação utiliza uma arquitetura separada entre frontend e backend:
+**MIA:**  
+https://mia-deploy.vercel.app/
 
-```text
-                         ┌─────────────────┐
-                         │      Usuário    │
-                         └────────┬────────┘
-                                  │
-                                  ▼
-                         ┌─────────────────┐
-                         │     Vercel      │
-                         │    Frontend     │
-                         └────────┬────────┘
-                                  │
-                                  ▼
-                         ┌─────────────────┐
-                         │     Render      │
-                         │     FastAPI     │
-                         └───────┬─┬───────┘
-                                 │ │
-                  ┌──────────────┘ └──────────────┐
-                  ▼                               ▼
-          ┌───────────────┐               ┌───────────────┐
-          │ Google Gemini │               │   Supabase    │
-          │      API      │               │  PostgreSQL   │
-          └───────────────┘               └───────────────┘
+**API:**  
+https://mia-deploy.onrender.com/
+
+---
+
+<p align="center">
+  <strong>🤖 MIA</strong><br>
+  <i>Uma assistente. Várias possibilidades.</i>
+</p>
