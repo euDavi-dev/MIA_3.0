@@ -17,7 +17,7 @@
 ## 🎬 Conheça a MIA
 
 <p align="center">
-  <a href="MIA.MP4">
+  <a href="MIA.mp4">
     <img src="Thumb.jpeg" width="800" alt="Conheça a MIA">
   </a>
 </p>
