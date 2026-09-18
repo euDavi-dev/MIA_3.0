@@ -1,7 +1,7 @@
 # 🤖 MIA — Minha Inteligência Artificial
 
 <p align="center">
-  <img src="frontend/public/mia-icon.png" width="120" alt="MIA">
+  <img src="LOGO_MIA.png" width="120" alt="MIA">
 </p>
 
 <h3 align="center">
@@ -17,8 +17,8 @@
 ## 🎬 Conheça a MIA
 
 <p align="center">
-  <a href="SEU_LINK_DO_VIDEO">
-    <img src="SUA_THUMBNAIL_DO_VIDEO.png" width="800" alt="Conheça a MIA">
+  <a href="MIA.MP4">
+    <img src="Thumb.jpeg" width="800" alt="Conheça a MIA">
   </a>
 </p>
 
