@@ -85,19 +85,7 @@ Novas versões poderão melhorar progressivamente essas limitações.
 A MIA foi criada como um projeto para explorar o desenvolvimento de uma plataforma própria de inteligência artificial, desde a interface do usuário até o back-end e a integração com modelos de IA.
 
 A versão atual representa o **ponto inicial do projeto**, que poderá receber novas funcionalidades e melhorias no futuro.
-
 ---
-
-## 📸 Interface
-
-<div align="center">
-
-<img src="CAMINHO-DA-SUA-IMAGEM" width="80%" alt="Interface da MIA">
-
-</div>
-
----
-
 ## 👨‍💻 Desenvolvimento
 
 Projeto desenvolvido por **Davi Santos**.
